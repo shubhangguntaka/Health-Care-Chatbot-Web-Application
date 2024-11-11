@@ -1,0 +1,11 @@
+{
+  "name": "Health-Care-Chatbot-Web-Application",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "healthcare-chatbot/server/server.js",
+  "scripts": {
+    "test": "node healthcare-chatbot/server/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
