@@ -4,7 +4,7 @@
   "description": " ",
   "main": "healthcare-chatbot/server/server.js",
   "scripts": {
-    "test": "node healthcare-chatbot/server/server.js"
+    "start": "node healthcare-chatbot/server/server.js"
   },
   "author": "",
   "license": "ISC"
