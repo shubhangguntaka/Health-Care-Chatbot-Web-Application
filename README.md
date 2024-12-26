@@ -24,3 +24,7 @@ The project directory is organized as follows:
   - **package.json** and **package-lock.json**: Configuration files for managing project dependencies and scripts.
 
 - **API.rtf**: Documentation file containing details about the API used in the project.
+
+### Output
+![Output 1](Images/Output 1.jpg)
+![Output 2](Images/Output 2.jpg)
